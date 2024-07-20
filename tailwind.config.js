@@ -2,7 +2,12 @@
 module.exports = {
   content: [],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        hunter-green: '#355E3B',
+    
+      },
+    },
   },
   plugins: [],
 }
